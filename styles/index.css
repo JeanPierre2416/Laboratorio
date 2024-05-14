@@ -1,0 +1,12 @@
+#Fraccion_Gruesa {
+ width: 90%;
+ background-color: rgba(206, 210, 210, 0.225);
+}
+
+label{
+    width: 400px;
+    background-color: aqua;
+}
+input{
+    width: 70px;
+}
